@@ -13,7 +13,7 @@ Una aplicación de música construida con Expo y React Native.
 Primero, clona el repositorio a tu máquina local usando `https://github.com/JulioAguilar2019/animes-and-mangas-app.git`.
 
 ```bash
-git clone [https://github.com/JulioAguilar2019/spotify-clone.git](https://github.com/JulioAguilar2019/animes-and-mangas-app.git)
+git clone https://github.com/JulioAguilar2019/animes-and-mangas-app.git
 cd animes-and-manga-app
 ```
 ## Instalación de Dependencias
